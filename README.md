@@ -18,7 +18,7 @@ Amazon SQS
 
 Amazon VPC
 
-**Amazon IAM: Identity Access Management: **
+**Amazon IAM: Identity Access Management:**
 
 This is where sys admin will live. Related to active directory. When you sign in to work and forget password: need to reset password with help of HR. 
 When you set permissions, you set policies. You can either edit existing policies or create new one. User are the ones who want to access the AWS account. You wil attach a policy to the user to allow permissions. Role is something you attach to a policy depending on what access to add in the policy. Groups are like dev team, sre team etc.
